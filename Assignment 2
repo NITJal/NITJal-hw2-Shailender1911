@@ -1,8 +1,0 @@
-1.	Implement an ATM machine with including all kind of exceptions (Ex. Insufficient balance).
--> for this purpose make the robust program which handles all kind of data which has been given input and the exceptions genereated
--> in the backend processing
-  
-2.	Implement a form accepting details of student in correct format.
--> this form should be able to include the name,  email, rollnumber, adderess, phone number, marks in HSC and UG base on which
--> calculate whether he/she is elgible for PG admission in National Institute where they give an criteria of 60% in HSC and 70% in UG.
--> this form should also be able to handle the mistakes done by students during filling the form.
